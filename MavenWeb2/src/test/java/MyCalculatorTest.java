@@ -20,7 +20,7 @@ public class MyCalculatorTest {
 	}
 	@Test
 	public void test4() {
-		assertEquals(0,new MyCalculator().getsum(5,5));
+		assertEquals(0,new MyCalculator().getdiff(5,5));
 	}
 
 
